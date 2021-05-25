@@ -49,6 +49,7 @@ public class Number1 {
         int[] ints = twoSumGood(nums, 6);
         for (int anInt : ints) {
             System.out.println(anInt);
+            System.out.println("哈哈哈");
         }
     }
 
